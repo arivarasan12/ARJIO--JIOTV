@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+<p align="center"><img src="https://i.ibb.co/hmZyP5j/JIO-LOGO-removebg-preview.png" width="180" height="100"></p>
 
-You can use the [editor on GitHub](https://github.com/arivarasan12/ARJIO--JIOTV/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1 align='center'>✯ JɪᴏTV Pʟᴀʏ ✯</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
+<!-- © 2021 TechieSneh -->
 
-### Markdown
+<h4 align='center'>📺 The PHP Script For Grabb Streaming Links and Play it , This Workes Only on Indian Server and LocalHost [ VPS ] due to Geo-restrictions<br><br>🌟 Start This Repositry Befor Copying 😎<br>😠 Don't Remove Creadits<br>Don't Edit This Script 😈<br><br>Put Your Own Token In This Script</h4>
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>😇 Features :</h2>
 
-```markdown
-Syntax highlighted code block
+- HQ Streaming Free of Cost <br>
+- Will Works In 250, 400, 600, 800 in this Gives Qualities
+- Web Play Supports
+- TiviMate or PC Users can Also Use This [PlayList.m3u](https://github.com/techiesneh/Sneh-JioTV/blob/main/playlist.m3u)
 
-# Header 1
-## Header 2
-### Header 3
+<h3>😛 Generate ssoToken Here :</h3>
 
-- Bulleted
-- List
+- For This You Need JioID Number and Password
 
-1. Numbered
-2. List
+[Jio Login Page] (http://jiologin.epizy.com)
+ 
+- `user` = Username / Mobile No.
+- `pass` = Password
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<br>
+<h2>🍁 How To Use : </h2>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### ♢ Method 1 :
 
-### Jekyll Themes
+• Put Your ssoToken in Files then
+• Locate all Files in LocalHost Root Folder <br>
+• Open localhost You Will See all Channels List <br>
+• Click On Channel and Play <br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arivarasan12/ARJIO--JIOTV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### ♢ Method 2 :
 
-### Support or Contact
+• In Player Put Links Format Like Below
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  ```py
+  [+] - http://localhost/m3u8.php?c=Channel_Name&q=Quality&e=play.m3u8
+  
+  [+] - http://localhost/m3u8.php?c=And_Pictures_HD&q=800&e=play.m3u8
+  
+  ```
+
+   ♢ <b>Depnding on Your Server Change Links<br>
+   ♢ This Script is free for USE and Modify</b><br><br>
+
+<h2>🚸 Warnings :</h2>
+
+- This is Just For Educational Purpose
+- DO NOT Sell this Script, This is 💯% Free
+
+<h3>🤗 Meet Me : </h3>
+
+
+• For any Support About Script contact [@TechieSneh]
+• Or Contact at [techiesneh@protonmail.com](mailto:techiesneh@protonmail.com)
+
+<br>
+
+
+---
+<h4 align='center'>© 2021 Techie Sneh</h4>
+
+<!-- DO NOT REMOVE THIS CREDIT 🤬 🤬 -->
+
